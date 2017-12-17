@@ -15,7 +15,7 @@ public class Odds_or_Evens {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(in);
-        out.println("Let’s play a game called “Odds and Evens!");
+        out.println("Let’s play a game called Odds and Evens!");
         out.println("What is your name? ");
         String name = input.nextLine();
         out.println("Nice to meet you, " + name + "!");
